@@ -10,9 +10,7 @@
 <br>
 <a href="https://github.com/distillium/motd"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-motd-dark.svg"><img alt="motd" src="./assets/card-motd-light.svg" width="49%"></picture></a>&nbsp;<a href="https://github.com/distillium/socks5-proxy-manager"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-socks5-proxy-manager-dark.svg"><img alt="socks5-proxy-manager" src="./assets/card-socks5-proxy-manager-light.svg" width="49%"></picture></a>
 </p>
-
 <br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/distillium/distillium/output/snake-dark.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/distillium/distillium/output/snake-light.svg" width="100%">
