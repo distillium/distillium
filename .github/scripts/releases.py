@@ -51,6 +51,7 @@ MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
 def render(items, dark):
     W, top, row = 880, 62, 52
     H = top + row * max(len(items), 1) + 14
+    PADB = 12
     gold = "#c9a66b"
     acc = "#e2c48e" if dark else "#8c6630"
     tc = "#e6edf3" if dark else "#1f2328"
@@ -73,7 +74,7 @@ def render(items, dark):
   </g>''')
     if not items:
         rows.append(f'<text x="30" y="{top+30}" font-family="{SANS}" font-size="14" fill="{dc}">No releases yet</text>')
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H+PADB}" viewBox="0 0 {W} {H+PADB}">
   <rect x=".5" y=".5" width="{W-1}" height="{H-1}" rx="16" fill="{gold}" fill-opacity="{.05 if dark else .07}" stroke="{gold}" stroke-opacity="{.28 if dark else .4}"/>
   <text x="30" y="38" font-family="{MONO}" font-size="12.5" font-weight="600" letter-spacing="2.2" fill="{acc}">LATEST RELEASES</text>
   <circle cx="{W-34}" cy="34" r="4" fill="{acc}"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
