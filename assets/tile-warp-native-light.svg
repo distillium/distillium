@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="164" viewBox="0 0 440 164"><svg x="0" y="0" width="432" height="152" viewBox="0 0 420 148">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1d9a6"/><stop offset="1" stop-color="#b48545"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#c9a66b" stop-opacity="0"/><stop offset=".5" stop-color="#c9a66b" stop-opacity=".18"/><stop offset="1" stop-color="#c9a66b" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="420" height="148" rx="16"/></clipPath>
+<style>.n{font:600 18px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#1f2328}.d{font:400 13.5px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#59636e}.l{font:500 12.5px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#59636e}
+.s{animation:sw 7s ease-in-out infinite}@keyframes sw{0%,60%{transform:translateX(-420px)}100%{transform:translateX(420px)}}</style></defs>
+<g clip-path="url(#c)"><rect width="420" height="148" fill="#c9a66b" fill-opacity="0.07"/>
+
+<rect x="22" y="24" width="52" height="52" rx="14" fill="#c9a66b" fill-opacity="0.14" stroke="#c9a66b" stroke-opacity=".3"/>
+<g transform="translate(32 34) scale(1.333)" fill="none" stroke="#a07a3f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7 18.5h10a4 4 0 0 0 .8-7.9A6 6 0 0 0 6.3 9 4.8 4.8 0 0 0 7 18.5z"/><path d="M10 14.5l2-2 2 2"/></g>
+<text x="92" y="46" class="n">warp-native</text>
+<text x="92" y="68" class="l"><tspan fill="#89e051">●</tspan> Shell</text>
+<text x="24" y="108" class="d">Cloudflare WARP in native mode via WireGuard</text><text x="24" y="128" class="d">interface — no warp-cli needed.</text>
+</g><rect x=".5" y=".5" width="419" height="147" rx="16" fill="none" stroke="#c9a66b" stroke-opacity="0.4"/></svg></svg>
