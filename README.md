@@ -14,8 +14,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/distillium/distillium/output/releases-dark.svg">
-  <img alt="latest releases" src="https://raw.githubusercontent.com/distillium/distillium/output/releases-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/distillium/distillium/output/releases-dark.svg?v=2">
+  <img alt="latest releases" src="https://raw.githubusercontent.com/distillium/distillium/output/releases-light.svg?v=2" width="100%">
 </picture>
 
 <br>
