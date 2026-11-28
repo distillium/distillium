@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="296" viewBox="0 0 880 296">
+  <rect x=".5" y=".5" width="879" height="283" rx="16" fill="#c9a66b" fill-opacity="0.05" stroke="#c9a66b" stroke-opacity="0.28"/>
+  <text x="30" y="38" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" font-weight="600" letter-spacing="2.2" fill="#e2c48e">LATEST RELEASES</text>
+  <circle cx="846" cy="34" r="4" fill="#e2c48e"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  
+  <g transform="translate(0 62)">
+    
+    <g transform="translate(30 15)" fill="none" stroke="#e2c48e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M2 3.5v6.2l9.3 9.3a1.6 1.6 0 0 0 2.3 0l5.4-5.4a1.6 1.6 0 0 0 0-2.3L9.7 2H3.5A1.5 1.5 0 0 0 2 3.5z"/><circle cx="6.6" cy="6.6" r="1.4"/>
+    </g>
+    <text x="64" y="32" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6edf3">remnawave-backup-restore</text>
+    <rect x="634.0" y="13" width="68.0" height="26" rx="13" fill="#c9a66b" fill-opacity="0.12" stroke="#c9a66b" stroke-opacity=".35"/>
+    <text x="668.0" y="31" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#e2c48e">4.5.2</text>
+    <text x="852" y="31" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9198a1">1 day ago</text>
+  </g>
+  <g transform="translate(0 114)">
+    <line x1="28" x2="852" y1="0" y2="0" stroke="#c9a66b" stroke-opacity=".14"/>
+    <g transform="translate(30 15)" fill="none" stroke="#e2c48e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M2 3.5v6.2l9.3 9.3a1.6 1.6 0 0 0 2.3 0l5.4-5.4a1.6 1.6 0 0 0 0-2.3L9.7 2H3.5A1.5 1.5 0 0 0 2 3.5z"/><circle cx="6.6" cy="6.6" r="1.4"/>
+    </g>
+    <text x="64" y="32" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6edf3">warp-native</text>
+    <rect x="652.4" y="13" width="49.599999999999994" height="26" rx="13" fill="#c9a66b" fill-opacity="0.12" stroke="#c9a66b" stroke-opacity=".35"/>
+    <text x="677.2" y="31" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#e2c48e">3.0</text>
+    <text x="852" y="31" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9198a1">1 month ago</text>
+  </g>
+  <g transform="translate(0 166)">
+    <line x1="28" x2="852" y1="0" y2="0" stroke="#c9a66b" stroke-opacity=".14"/>
+    <g transform="translate(30 15)" fill="none" stroke="#e2c48e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M2 3.5v6.2l9.3 9.3a1.6 1.6 0 0 0 2.3 0l5.4-5.4a1.6 1.6 0 0 0 0-2.3L9.7 2H3.5A1.5 1.5 0 0 0 2 3.5z"/><circle cx="6.6" cy="6.6" r="1.4"/>
+    </g>
+    <text x="64" y="32" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6edf3">motd</text>
+    <rect x="634.0" y="13" width="68.0" height="26" rx="13" fill="#c9a66b" fill-opacity="0.12" stroke="#c9a66b" stroke-opacity=".35"/>
+    <text x="668.0" y="31" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#e2c48e">2.5.0</text>
+    <text x="852" y="31" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9198a1">6 months ago</text>
+  </g>
+  <g transform="translate(0 218)">
+    <line x1="28" x2="852" y1="0" y2="0" stroke="#c9a66b" stroke-opacity=".14"/>
+    <g transform="translate(30 15)" fill="none" stroke="#e2c48e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M2 3.5v6.2l9.3 9.3a1.6 1.6 0 0 0 2.3 0l5.4-5.4a1.6 1.6 0 0 0 0-2.3L9.7 2H3.5A1.5 1.5 0 0 0 2 3.5z"/><circle cx="6.6" cy="6.6" r="1.4"/>
+    </g>
+    <text x="64" y="32" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6edf3">socks5-proxy-manager</text>
+    <rect x="634.0" y="13" width="68.0" height="26" rx="13" fill="#c9a66b" fill-opacity="0.12" stroke="#c9a66b" stroke-opacity=".35"/>
+    <text x="668.0" y="31" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#e2c48e">1.0.1</text>
+    <text x="852" y="31" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9198a1">8 months ago</text>
+  </g>
+</svg>
